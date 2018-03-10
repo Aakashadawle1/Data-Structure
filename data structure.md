@@ -1,23 +1,23 @@
-# Data-Structure
+#  Data-Structure
 
-## Introduction
-  ### 1. what is Data Structure?
+##  Introduction
+  ###  1. what is Data Structure?
   
     Data structure is organizing in a perticular mannar and storing data in a computer. it is accesible and modifieable 
     efficiently. Data Structure is a collection of data values (like 10,A).
 
-  ### 2. Why need of Data Structure?
+  ###  2. Why need of Data Structure?
   
       Data Structure are used for make it easy to locate and retrieve information. Primitive data structure are simple way of
       for programming language to represent basic values.It can make many things much faster.
       It create once only and it can be used again and again easily
   
-  ### 3. which concept do you clare before starting the Data Structure?
+  ###  3. which concept do you clare before starting the Data Structure?
   
      You have to know basic syntax of how to define a class, data types, name mangling,work flow. We have to need basic
      idea of programming language in which language do you perforn with it. 
   
-  ### 4. Types of data structure
+  ###  4. Types of data structure
   
       * Leanear Data structure
 
@@ -27,7 +27,7 @@
       
             Tree  
   
-  ### 5. Example of data strucuture 
+  ###  5. Example of data strucuture 
   
   Linked List
   
