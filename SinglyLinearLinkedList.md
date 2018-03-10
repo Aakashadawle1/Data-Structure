@@ -33,7 +33,7 @@
   
   Singly Linear LinkedList
         
-      
+      ```c++
         #include <iostream>
         
         using namespace std;
@@ -327,3 +327,4 @@
 
             return 0;
         }
+        ```
