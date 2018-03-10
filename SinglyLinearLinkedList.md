@@ -33,7 +33,7 @@
   
   Singly Linear LinkedList
         
-      ```c++
+      ```C++
         #include <iostream>
         
         using namespace std;
