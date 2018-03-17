@@ -17,7 +17,7 @@
      You have to know basic syntax of how to define a class, data types, name mangling,work flow. We have to need basic
      idea of programming language in which language do you perforn with it. 
   
-  ###  4. Types of data structure
+### 4. Types of data structure
   
       * Leanear Data structure
 
@@ -27,7 +27,7 @@
       
             Tree  
   
-  ###  5. Example of data strucuture 
+### 5. Example of data strucuture 
   
   Linked List
   
