@@ -12,7 +12,7 @@
       for programming language to represent basic values.It can make many things much faster.
       It create once only and it can be used again and again easily
   
- ### 3. which concept do you clare before starting the Data Structure?
+### 3. which concept do you clare before starting the Data Structure?
   
      You have to know basic syntax of how to define a class, data types, name mangling,work flow. We have to need basic
      idea of programming language in which language do you perforn with it. 
