@@ -19,11 +19,11 @@
   
 ### 4. Types of data structure
   
-      * Leanear Data structure
+      > Leanear Data structure
 
             Stack,Queue,Linked List.
          
-      * Non-Leanear Data structure
+      > Non-Leanear Data structure
       
             Tree  
   
@@ -33,8 +33,8 @@
   
   Singly Linear LinkedList
         
-        
- ``` c++
+     
+``` c++
         
         #include <iostream>
         
