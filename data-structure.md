@@ -1,7 +1,7 @@
 #  Data-Structure
 
 ##  Introduction
-  ###  1. what is Data Structure?
+### 1. what is Data Structure?
   
     Data structure is organizing in a perticular mannar and storing data in a computer. it is accesible and modifieable 
     efficiently. Data Structure is a collection of data values (like 10,A).
