@@ -6,7 +6,7 @@
     Data structure is organizing in a perticular mannar and storing data in a computer. it is accesible and modifieable 
     efficiently. Data Structure is a collection of data values (like 10,A).
 
- ### 2. Why need of Data Structure?
+### 2. Why need of Data Structure?
   
       Data Structure are used for make it easy to locate and retrieve information. Primitive data structure are simple way of
       for programming language to represent basic values.It can make many things much faster.
